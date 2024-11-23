@@ -78,10 +78,11 @@ h5 {
 }
 
 .header {
-  height: 700px;
+  height: 100vh;
   background-image: url("../images/background1big.png");
   background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .header h1 {
